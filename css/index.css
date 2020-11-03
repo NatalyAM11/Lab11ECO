@@ -1,0 +1,71 @@
+
+body{
+    padding: 10%;
+    font-family: sans-serif;
+}
+
+#primerTitulo{
+    padding: 10px;
+    text-align: center;
+}
+
+#inputEstado{
+   
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(234, 238, 234);
+    }
+
+
+    #inputEstado *{
+        margin: 10px;
+        width: 50%;
+        border-radius: 5px;
+    }
+
+    .estado{
+        padding: 28px;
+        width: 50%;
+    }
+
+    .botones{
+        background-color: rgb(204, 70, 182);
+        color: white;
+        border-radius: 8px;
+        padding: 10px;
+    }
+
+    #estados{
+        padding: 15px;
+        text-align: center;
+    }
+
+    .filaEstado{
+        padding: 2.8em;
+        background-color: rgb(179, 170, 187);
+        width: 30em;
+        border-radius: 8px;
+        margin: 0 auto;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    
+    .filaEstado *{
+        padding: 0.5em;
+    }
+
+
+    .nameFilaEstado{
+        font-size: small;
+        font-weight: bold;
+        /*position: absolute;
+        right:30em;*/
+    }
+
+    .comentarios{
+        background-color: darkgray;
+        /*position: absolute;
+        right:30em;*/
+    }
